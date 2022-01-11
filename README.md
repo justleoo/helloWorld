@@ -1,3 +1,3 @@
-## 💻 › Hello World
+## hello world
 
-### Just a project to show all types of hello world available! 
+### :wave:
