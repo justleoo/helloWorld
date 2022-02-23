@@ -1,3 +1,4 @@
+/* by: WinG4merBR#6611 (I'm not the owner of this code) */
 section    .text
    global_start
     
