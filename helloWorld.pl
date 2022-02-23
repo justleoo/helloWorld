@@ -1,4 +1,4 @@
-/* by WinG4merBR#6611 */
+// by WinG4merBR#6611
 use strict;
 use warnings;
 
